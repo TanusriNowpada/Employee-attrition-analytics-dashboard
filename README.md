@@ -99,11 +99,11 @@ To analyze employee attrition, identify the key factors influencing employee tur
 
 # 👤 Author
 
-### **Thanusri Nowpada**
+### **Tanusri Nowpada**
 
 💼 **LinkedIn:** https://www.linkedin.com/in/tanusri-nowpada/
 
-💻 **GitHub:**
+💻 **GitHub:** https://github.com/TanusriNowpada
 
 ---
 
